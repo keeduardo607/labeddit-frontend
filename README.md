@@ -24,5 +24,8 @@ Tecnologias usadas no projeto:
 *   JavaScript: A linguagem de programação fundamental utilizada para desenvolver a lógica e interatividade do projeto.
 *   Outras bibliotecas do ecossistema React como React Router Axios entre outras foram utilizadas para facilitar o desenvolvimento e melhorar a experiência do usuário.
 
+📷 Capturas
 
+Desktop 🖥️
 
+https://github.com/keeduardo607/labeddit-frontend/blob/429dd0b70ad906450652268683a5d74df6b3244d/Login.PNG
