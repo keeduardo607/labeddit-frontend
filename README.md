@@ -35,3 +35,22 @@ https://github.com/keeduardo607/labeddit-frontend/blob/429dd0b70ad90645065226868
 Posts:
 
 https://github.com/keeduardo607/labeddit-frontend/blob/6f591f66427ad3de43ddbf2ade048e73fecebad3/posts.PNG
+
+Cadastro:
+
+https://github.com/keeduardo607/labeddit-frontend/blob/1725771742fd52c7398658b909e7a2ff4dd419fe/Cadastro.PNG
+
+Mobile e Tablet 📱
+
+Login:
+
+https://github.com/keeduardo607/labeddit-frontend/blob/1725771742fd52c7398658b909e7a2ff4dd419fe/Login%20Celular.PNG
+
+Posts:
+
+https://github.com/keeduardo607/labeddit-frontend/blob/1725771742fd52c7398658b909e7a2ff4dd419fe/posts%20celular.PNG
+
+Cadastro:
+
+https://github.com/keeduardo607/labeddit-frontend/blob/1725771742fd52c7398658b909e7a2ff4dd419fe/cadastro%20celular.PNG
+
