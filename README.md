@@ -28,4 +28,10 @@ Tecnologias usadas no projeto:
 
 Desktop 🖥️
 
+Login:
+
 https://github.com/keeduardo607/labeddit-frontend/blob/429dd0b70ad906450652268683a5d74df6b3244d/Login.PNG
+
+Posts:
+
+https://github.com/keeduardo607/labeddit-frontend/blob/6f591f66427ad3de43ddbf2ade048e73fecebad3/posts.PNG
